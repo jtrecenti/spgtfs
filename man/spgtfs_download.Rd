@@ -14,6 +14,8 @@ spgtfs_download(login, pwd, path = "data-raw/gtfs")
 \item{path}{folder where gtfs.zip will be written.}
 }
 \description{
-Download SP-GTFS data from SPTrans site.
-If you don't have login and password, \href{http://www.sptrans.com.br/desenvolvedores/Default.aspx?login}{click here}.
+Download SP-GTFS data from SPTrans site. If you don't have login and
+password,
+\href{http://www.sptrans.com.br/desenvolvedores/Default.aspx?login}{click
+here}.
 }

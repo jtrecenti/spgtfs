@@ -2,7 +2,7 @@
 % Please edit documentation in R/utils.R
 \name{get_tags}
 \alias{get_tags}
-\title{Pegar uma tag}
+\title{Get value of a tag by CSS path}
 \usage{
 get_tags(req, tipo)
 }
@@ -12,5 +12,6 @@ get_tags(req, tipo)
 \item{tipo}{CSS path of the item (e.g. \code{#__VIEWSTATE}).}
 }
 \description{
-This is useful for ASPX pages to get parameters inside \code{__VIEWSTATE} and other stuff.
+This is useful for ASPX pages to get parameters inside \code{__VIEWSTATE} and
+other stuff.
 }
