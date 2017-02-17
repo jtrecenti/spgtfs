@@ -1,5 +1,7 @@
 [![Travis-CI Build Status](https://travis-ci.org/jtrecenti/spgtfs.svg?branch=master)](https://travis-ci.org/jtrecenti/spgtfs)
 
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/jtrecenti/spgtfs?branch=master&svg=true)](https://ci.appveyor.com/project/jtrecenti/spgtfs)
+
 # spgtfs
 
 Downloads GTFS data from SPTrans.
