@@ -1,7 +1,9 @@
 #' Download SP-GTFS data
 #'
-#' Download SP-GTFS data from SPTrans site.
-#' If you don't have login and password, \href{http://www.sptrans.com.br/desenvolvedores/Default.aspx?login}{click here}.
+#' Download SP-GTFS data from SPTrans site. If you don't have login and
+#' password,
+#' \href{http://www.sptrans.com.br/desenvolvedores/Default.aspx?login}{click
+#' here}.
 #'
 #' @param login login.
 #' @param pwd password.

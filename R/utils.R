@@ -1,6 +1,7 @@
 #' Get value of a tag by CSS path
 #'
-#' This is useful for ASPX pages to get parameters inside \code{__VIEWSTATE} and other stuff.
+#' This is useful for ASPX pages to get parameters inside \code{__VIEWSTATE} and
+#' other stuff.
 #'
 #' @param req object returned by a \code{httr::GET} request.
 #' @param tipo CSS path of the item (e.g. \code{#__VIEWSTATE}).
